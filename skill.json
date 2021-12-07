@@ -1,0 +1,8 @@
+{ 	"Platforms": "Windows, Android",
+	"Mobtesting": "Xcode, Android Studio, ADB",
+	"Databases": "SQL,MongoDB",
+	"WebTesting": "Chrome devTools, HTML, XML, JSON",
+	"API": "REST, Postman, BDD",
+	"Manegement tool": "Jira, Zephyr, Comfluence",
+	"Automation": "Selenium Web Driver, Cucumber, Gherkin"
+}
